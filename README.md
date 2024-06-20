@@ -1,7 +1,7 @@
-####3일차(2장) 과제
+#### 3일차(2장) 과제
 2장, 연습문제 01번, 계산하는 프로그램을 R 언어 RStudio 작성하여 정해진 시간까지 제출
 ![image](https://github.com/boyamie/BasicComputerProgramming/assets/157342647/f06e2e20-38ea-4fbb-b929-19882a6c9090)
-####4일차(3장) 과제
+#### 4일차(3장) 과제
 3장, 연습문제 01번, 02번 문제에 대한 프로그램을 R 언어 RStudio 작성하여 정해진 시간까지 제출
 ![image](https://github.com/boyamie/BasicComputerProgramming/assets/157342647/5fe9dced-5de1-4208-8e7b-22c9c1287e28)
 ####5일차(4장) 과제
