@@ -1,1 +1,1 @@
-deals with the characteristics and work environment of R language.
+i learned the characteristics and work environment of R language.
